@@ -3,16 +3,16 @@
     "username": "sebbrousse",
     "repositoryName": "hubpress.io",
     "branch": "master",
-    "cname": "wonderful-hermann-62b1f7.netlify.com"
+    "cname": "elastic-cray-2f21d2.netlify.com"
   },
   "theme": {
     "name": "casper"
   },
   "urls": {
-    "site": "http://wonderful-hermann-62b1f7.netlify.com",
-    "hubpress": "https://wonderful-hermann-62b1f7.netlify.com",
-    "theme": "//wonderful-hermann-62b1f7.netlify.com/themes/casper",
-    "images": "http://wonderful-hermann-62b1f7.netlify.com/images"
+    "site": "http://elastic-cray-2f21d2.netlify.com",
+    "hubpress": "https://elastic-cray-2f21d2.netlify.com",
+    "theme": "//elastic-cray-2f21d2.netlify.com/themes/casper",
+    "images": "http://elastic-cray-2f21d2.netlify.com/images"
   },
   "initialisationConfigComponent": {
     "name": "initialise-configuration",
